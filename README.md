@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Buy a Tesla [here](https://tesla-car-configurator-react.netlify.com/)
 
 ## Available Scripts
 
